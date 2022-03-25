@@ -1,0 +1,110 @@
+/********************TAG STYLE********************/
+
+body {
+  display: block;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  width: 5%;
+}
+
+h1 {
+  font-size: 3rem;
+  font-family: "Montserrat", sans-serif;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-family: "Roboto Slab", serif;
+  font-weight: bolder;
+  padding: 15px 0;
+}
+
+h3 {
+  margin: auto;
+  display: block;
+  font-size: 1.17em;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+h5 {
+  font-size: 3rem;
+  margin-bottom: 50px;
+}
+
+body {
+  margin: 0;
+  background-color: #3a7ca5;
+}
+
+p {
+  font-family: "Roboto Slab", serif;
+  font-size: 1.2rem;
+}
+
+/********************CLASS STYLE********************/
+
+.div-1 {
+  text-align: center;
+  padding: 7% 3%;
+}
+
+.logo {
+  border-radius: 30%;
+}
+
+.top_div {
+  width: 70%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.sir_img {
+  width: 25%;
+  float: left;
+  margin: 75px 50px 50px 0;
+}
+
+.courses {
+  text-align: center;
+  padding: 50px 0;
+}
+
+.middle_div {
+  margin: 0;
+  height: 500px;
+}
+
+.bottom_div {
+  margin: 0;
+  height: 500px;
+}
+
+.feature_icon {
+  color: #373737;
+  margin-bottom: 1rem;
+}
+
+.feature_icon:hover {
+  color: #232023;
+}
+
+.feature_box {
+  text-align: center;
+  padding: 5%;
+}
+
+/********************ID STYLE********************/
+
+#features {
+  padding: 7% 15%;
+}
